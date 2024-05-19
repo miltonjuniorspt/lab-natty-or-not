@@ -20,22 +20,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto IA INTELEIGÊNTE ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Como tornar a IA mais inteligente
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Chat Gpt
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Pesquisas 
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+É um pouco dificil parecer um humano real.
 ```
 
 ### Exemplos e Insigths
